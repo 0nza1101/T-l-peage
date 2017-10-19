@@ -1,15 +1,16 @@
-# Resumé
-Projet de fin d'études, réalisation d'un système de télépéage complet permettant l'accès à certains utilisateurs munis d'un badge RFID et d'un abonnement.
+# Resumï¿½
+Projet de fin d'ï¿½tudes, rï¿½alisation d'un systï¿½me de tï¿½lï¿½pï¿½age complet permettant l'accï¿½s ï¿½ certains utilisateurs munis d'un badge RFID et d'un abonnement.
 
-Ma tâche au sein du projet centralise les gestions des organes du système de télépéage.
-*	Recevoir l’information du lecteur RFID.
-*	Insérer la date et l’heure de passage dans la base de données.
-*	Demander à la base de données si le badge est encore valide.
+Ma tï¿½che au sein du projet centralise la gestion des organes du systï¿½me de tï¿½lï¿½pï¿½age.
+*	Recevoir lï¿½information du lecteur RFID.
+*	Insï¿½rer la date et lï¿½heure de passage dans la base de donnï¿½es.
+*	Demander ï¿½ la base de donnï¿½es si le badge est encore valide.
 *	Passer le feu au vert.
-*	Permettre au système d’afficher le prix débité lors du passage.
-*	Levé la barrière après validation du passage.
-Utilisation d'un microcontrôleur du type .NET Gadgeteer le FEZ Spider.
-Pour savoir comment le système fonctionne, le cahier des charges de l'épreuve est dans le repo ainsi que le rapport de projet.
+*	Permettre au systï¿½me dï¿½afficher le prix dï¿½bitï¿½ lors du passage.
+*	Levï¿½ la barriï¿½re aprï¿½s validation du passage.
 
-Ce projet a été réalisé avec mes camarades Maxence Barby(Site Web) et Moahmed Chelloul(RFID) et moi-même Jordan Nijean(Organe télépéage) :tada:.
+Utilisation d'un microcontrï¿½leur du type .NET Gadgeteer le FEZ Spider.
+Pour savoir comment le systï¿½me fonctionne, le cahier des charges de l'ï¿½preuve est dans le repo ainsi que le rapport de projet.
+
+Ce projet a ï¿½tï¿½ rï¿½alisï¿½ avec mes camarades Maxence Barby(Site Web) et Moahmed Chelloul(RFID) et moi-mï¿½me Jordan Nijean(Organe tï¿½lï¿½pï¿½age) :tada:.
 
