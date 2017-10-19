@@ -1,0 +1,723 @@
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\obj\Debug\Télépeage.csprojResolveAssemblyReference.cache
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\obj\Debug\Télépeage.Resources.resources
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\obj\Debug\Télépeage.csproj.GenerateResource.Cache
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\obj\Debug\Télépeage.Resources.tinyresources
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\obj\Debug\TinyResGen.cache
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\le\Télépeage.exe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\be\Télépeage.exe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\le\Télépeage.pdb
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\be\Télépeage.pdb
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\Télépeage.exe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\Télépeage.pdb
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\le\Télépeage.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\le\Télépeage.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\be\Télépeage.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\be\Télépeage.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.DaisyLink.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.SPI.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.WebClient.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.WebServer.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\GHI.Networking.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.DisplayTE35.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.EthernetJ11D.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.Extender.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.MulticolorLED.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\GHI.Hardware.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\GHI.Usb.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.DaisyLink.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.SPI.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.WebClient.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.WebServer.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\GHI.Networking.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.DisplayTE35.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.EthernetJ11D.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.Extender.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.MulticolorLED.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\GHI.Hardware.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\GHI.Usb.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.DaisyLink.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.SPI.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\GHI.Networking.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.DisplayTE35.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.EthernetJ11D.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.Extender.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.MulticolorLED.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\GHI.Hardware.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\LE\GHI.Usb.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.DaisyLink.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.SPI.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\GHI.Networking.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.DisplayTE35.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.EthernetJ11D.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.Extender.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.MulticolorLED.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\GHI.Hardware.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\BE\GHI.Usb.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\Gadgeteer.DaisyLink.dll
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\Gadgeteer.dll
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\Gadgeteer.SPI.dll
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebClient.dll
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebServer.dll
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\GHI.Networking.dll
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.DisplayTE35.dll
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.EthernetJ11D.dll
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.Extender.dll
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.MulticolorLED.dll
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\GHI.Hardware.dll
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\GHI.Usb.dll
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\Gadgeteer.pdb
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\Gadgeteer.xml
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\Gadgeteer.DaisyLink.pdb
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\Gadgeteer.DaisyLink.xml
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\Gadgeteer.SPI.pdb
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\Gadgeteer.SPI.xml
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebClient.pdb
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebClient.xml
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebServer.pdb
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebServer.xml
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\GHI.Networking.xml
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.DisplayTE35.xml
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.EthernetJ11D.xml
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.Extender.xml
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.MulticolorLED.xml
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\GHI.Hardware.xml
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\bin\Debug\GHI.Usb.xml
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\obj\Debug\be\Télépeage.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\obj\Debug\be\Télépeage.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\obj\Debug\le\Télépeage.pe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\obj\Debug\le\Télépeage.pdbx
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\obj\Debug\Télépeage.exe
+C:\Users\Levy\Documents\Visual Studio 2013\Projects\Télépeage\Télépeage\obj\Debug\Télépeage.pdb
+G:\000000nza\Télépeage\Télépeage\bin\Debug\le\Télépeage.exe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\be\Télépeage.exe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\le\Télépeage.pdb
+G:\000000nza\Télépeage\Télépeage\bin\Debug\be\Télépeage.pdb
+G:\000000nza\Télépeage\Télépeage\bin\Debug\Télépeage.exe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\Télépeage.pdb
+G:\000000nza\Télépeage\Télépeage\bin\Debug\le\Télépeage.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\le\Télépeage.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\be\Télépeage.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\be\Télépeage.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.DaisyLink.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.SPI.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.WebClient.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.WebServer.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GHI.Networking.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.DisplayTE35.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.EthernetJ11D.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.Extender.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.MulticolorLED.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GHI.Hardware.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GHI.Usb.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.DaisyLink.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.SPI.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.WebClient.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.WebServer.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GHI.Networking.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.DisplayTE35.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.EthernetJ11D.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.Extender.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.MulticolorLED.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GHI.Hardware.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GHI.Usb.pe
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.DaisyLink.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.SPI.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GHI.Networking.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.DisplayTE35.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.EthernetJ11D.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.Extender.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.MulticolorLED.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GHI.Hardware.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GHI.Usb.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.DaisyLink.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.SPI.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GHI.Networking.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.DisplayTE35.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.EthernetJ11D.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.Extender.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.MulticolorLED.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GHI.Hardware.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GHI.Usb.pdbx
+G:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.DaisyLink.dll
+G:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.dll
+G:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.SPI.dll
+G:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebClient.dll
+G:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebServer.dll
+G:\000000nza\Télépeage\Télépeage\bin\Debug\GHI.Networking.dll
+G:\000000nza\Télépeage\Télépeage\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+G:\000000nza\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.DisplayTE35.dll
+G:\000000nza\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.EthernetJ11D.dll
+G:\000000nza\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.Extender.dll
+G:\000000nza\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.MulticolorLED.dll
+G:\000000nza\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.USBClientDP.dll
+G:\000000nza\Télépeage\Télépeage\bin\Debug\GHI.Hardware.dll
+G:\000000nza\Télépeage\Télépeage\bin\Debug\GHI.Usb.dll
+G:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.pdb
+G:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.xml
+G:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.DaisyLink.pdb
+G:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.DaisyLink.xml
+G:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.SPI.pdb
+G:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.SPI.xml
+G:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebClient.pdb
+G:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebClient.xml
+G:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebServer.pdb
+G:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebServer.xml
+G:\000000nza\Télépeage\Télépeage\bin\Debug\GHI.Networking.xml
+G:\000000nza\Télépeage\Télépeage\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+G:\000000nza\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.DisplayTE35.xml
+G:\000000nza\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.EthernetJ11D.xml
+G:\000000nza\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.Extender.xml
+G:\000000nza\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.MulticolorLED.xml
+G:\000000nza\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.USBClientDP.xml
+G:\000000nza\Télépeage\Télépeage\bin\Debug\GHI.Hardware.xml
+G:\000000nza\Télépeage\Télépeage\bin\Debug\GHI.Usb.xml
+G:\000000nza\Télépeage\Télépeage\obj\Debug\Télépeage.csprojResolveAssemblyReference.cache
+G:\000000nza\Télépeage\Télépeage\obj\Debug\TinyCLR_DebugReferences.cache
+G:\000000nza\Télépeage\Télépeage\obj\Debug\Télépeage.Resources.resources
+G:\000000nza\Télépeage\Télépeage\obj\Debug\Télépeage.csproj.GenerateResource.Cache
+G:\000000nza\Télépeage\Télépeage\obj\Debug\Télépeage.Resources.tinyresources
+G:\000000nza\Télépeage\Télépeage\obj\Debug\TinyResGen.cache
+G:\000000nza\Télépeage\Télépeage\obj\Debug\Télépeage.exe
+G:\000000nza\Télépeage\Télépeage\obj\Debug\Télépeage.pdb
+G:\000000nza\Télépeage\Télépeage\obj\Debug\be\Télépeage.pe
+G:\000000nza\Télépeage\Télépeage\obj\Debug\be\Télépeage.pdbx
+G:\000000nza\Télépeage\Télépeage\obj\Debug\le\Télépeage.pe
+G:\000000nza\Télépeage\Télépeage\obj\Debug\le\Télépeage.pdbx
+E:\000000nza\Télépeage\Télépeage\obj\Debug\TinyCLR_DebugReferences.cache
+E:\000000nza\Télépeage\Télépeage\obj\Debug\Télépeage.Resources.resources
+E:\000000nza\Télépeage\Télépeage\obj\Debug\Télépeage.csproj.GenerateResource.Cache
+E:\000000nza\Télépeage\Télépeage\obj\Debug\Télépeage.Resources.tinyresources
+E:\000000nza\Télépeage\Télépeage\obj\Debug\TinyResGen.cache
+E:\000000nza\Télépeage\Télépeage\obj\Debug\Télépeage.csprojResolveAssemblyReference.cache
+E:\000000nza\Télépeage\Télépeage\bin\Debug\le\Télépeage.exe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\be\Télépeage.exe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\le\Télépeage.pdb
+E:\000000nza\Télépeage\Télépeage\bin\Debug\be\Télépeage.pdb
+E:\000000nza\Télépeage\Télépeage\bin\Debug\Télépeage.exe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\Télépeage.pdb
+E:\000000nza\Télépeage\Télépeage\bin\Debug\le\Télépeage.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\le\Télépeage.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\be\Télépeage.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\be\Télépeage.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.DaisyLink.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.SPI.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.WebClient.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.WebServer.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GHI.Networking.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.DisplayTE35.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.EthernetJ11D.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.Extender.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.MulticolorLED.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GHI.Hardware.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GHI.Usb.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.DaisyLink.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.SPI.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.WebClient.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.WebServer.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GHI.Networking.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.DisplayTE35.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.EthernetJ11D.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.Extender.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.MulticolorLED.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GHI.Hardware.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GHI.Usb.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.DaisyLink.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.SPI.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GHI.Networking.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.DisplayTE35.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.EthernetJ11D.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.Extender.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.MulticolorLED.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GHI.Hardware.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\GHI.Usb.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.DaisyLink.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.SPI.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GHI.Networking.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.DisplayTE35.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.EthernetJ11D.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.Extender.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.MulticolorLED.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GHI.Hardware.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\GHI.Usb.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.DaisyLink.dll
+E:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.dll
+E:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.SPI.dll
+E:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebClient.dll
+E:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebServer.dll
+E:\000000nza\Télépeage\Télépeage\bin\Debug\GHI.Networking.dll
+E:\000000nza\Télépeage\Télépeage\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+E:\000000nza\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.DisplayTE35.dll
+E:\000000nza\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.EthernetJ11D.dll
+E:\000000nza\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.Extender.dll
+E:\000000nza\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.MulticolorLED.dll
+E:\000000nza\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.USBClientDP.dll
+E:\000000nza\Télépeage\Télépeage\bin\Debug\GHI.Hardware.dll
+E:\000000nza\Télépeage\Télépeage\bin\Debug\GHI.Usb.dll
+E:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.pdb
+E:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.xml
+E:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.DaisyLink.pdb
+E:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.DaisyLink.xml
+E:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.SPI.pdb
+E:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.SPI.xml
+E:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebClient.pdb
+E:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebClient.xml
+E:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebServer.pdb
+E:\000000nza\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebServer.xml
+E:\000000nza\Télépeage\Télépeage\bin\Debug\GHI.Networking.xml
+E:\000000nza\Télépeage\Télépeage\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+E:\000000nza\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.DisplayTE35.xml
+E:\000000nza\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.EthernetJ11D.xml
+E:\000000nza\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.Extender.xml
+E:\000000nza\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.MulticolorLED.xml
+E:\000000nza\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.USBClientDP.xml
+E:\000000nza\Télépeage\Télépeage\bin\Debug\GHI.Hardware.xml
+E:\000000nza\Télépeage\Télépeage\bin\Debug\GHI.Usb.xml
+E:\000000nza\Télépeage\Télépeage\obj\Debug\be\Télépeage.pe
+E:\000000nza\Télépeage\Télépeage\obj\Debug\be\Télépeage.pdbx
+E:\000000nza\Télépeage\Télépeage\obj\Debug\le\Télépeage.pe
+E:\000000nza\Télépeage\Télépeage\obj\Debug\le\Télépeage.pdbx
+E:\000000nza\Télépeage\Télépeage\obj\Debug\Télépeage.exe
+E:\000000nza\Télépeage\Télépeage\obj\Debug\Télépeage.pdb
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\Toolbox.NETMF.Core.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\Toolbox.NETMF.Core.pe
+E:\000000nza\Télépeage\Télépeage\bin\Debug\LE\Toolbox.NETMF.Core.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\BE\Toolbox.NETMF.Core.pdbx
+E:\000000nza\Télépeage\Télépeage\bin\Debug\Toolbox.NETMF.Core.dll
+E:\000000nza\Télépeage\Télépeage\bin\Debug\Toolbox.NETMF.Core.pdb
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\le\Télépeage.exe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\be\Télépeage.exe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\le\Télépeage.pdb
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\be\Télépeage.pdb
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Télépeage.exe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Télépeage.pdb
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\le\Télépeage.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\le\Télépeage.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\be\Télépeage.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\be\Télépeage.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.DaisyLink.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.Serial.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.SPI.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.WebClient.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.WebServer.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHI.Hardware.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHI.Networking.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHI.Pins.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.DisplayTE35.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.EthernetJ11D.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.MulticolorLED.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.RS232.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Toolbox.NETMF.Core.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHI.Usb.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.DaisyLink.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.Serial.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.SPI.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.WebClient.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.WebServer.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHI.Hardware.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHI.Networking.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHI.Pins.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.DisplayTE35.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.EthernetJ11D.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.MulticolorLED.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.RS232.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Toolbox.NETMF.Core.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHI.Usb.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.DaisyLink.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.Serial.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.SPI.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHI.Hardware.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHI.Networking.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHI.Pins.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.DisplayTE35.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.EthernetJ11D.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.MulticolorLED.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.RS232.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Toolbox.NETMF.Core.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHI.Usb.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.DaisyLink.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.Serial.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.SPI.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHI.Hardware.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHI.Networking.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHI.Pins.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.DisplayTE35.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.EthernetJ11D.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.MulticolorLED.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.RS232.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Toolbox.NETMF.Core.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHI.Usb.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.DaisyLink.dll
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.dll
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.Serial.dll
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.SPI.dll
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebClient.dll
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebServer.dll
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHI.Hardware.dll
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHI.Networking.dll
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHI.Pins.dll
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.DisplayTE35.dll
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.EthernetJ11D.dll
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.MulticolorLED.dll
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.RS232.dll
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.USBClientDP.dll
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Toolbox.NETMF.Core.dll
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHI.Usb.dll
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.pdb
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.xml
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.DaisyLink.pdb
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.DaisyLink.xml
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.Serial.pdb
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.Serial.xml
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.SPI.pdb
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.SPI.xml
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebClient.pdb
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebClient.xml
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebServer.pdb
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebServer.xml
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHI.Hardware.xml
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHI.Networking.xml
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHI.Pins.xml
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.DisplayTE35.xml
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.EthernetJ11D.xml
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.MulticolorLED.xml
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.RS232.xml
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.USBClientDP.xml
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Toolbox.NETMF.Core.pdb
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHI.Usb.xml
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\Télépeage.csprojResolveAssemblyReference.cache
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\TinyCLR_DebugReferences.cache
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\Télépeage.Resources.resources
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\Télépeage.csproj.GenerateResource.Cache
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\Télépeage.Resources.tinyresources
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\TinyResGen.cache
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\be\Télépeage.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\be\Télépeage.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\le\Télépeage.pe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\le\Télépeage.pdbx
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\Télépeage.exe
+E:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\Télépeage.pdb
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\le\Télépeage.exe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\be\Télépeage.exe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\le\Télépeage.pdb
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\be\Télépeage.pdb
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Télépeage.exe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Télépeage.pdb
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\le\Télépeage.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\le\Télépeage.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\be\Télépeage.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\be\Télépeage.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.DaisyLink.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.Serial.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.SPI.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.WebClient.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.WebServer.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHI.Hardware.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHI.Networking.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHI.Pins.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.DisplayTE35.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.EthernetJ11D.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.MulticolorLED.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.RS232.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Toolbox.NETMF.Core.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHI.Usb.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.DaisyLink.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.Serial.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.SPI.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.WebClient.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.WebServer.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHI.Hardware.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHI.Networking.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHI.Pins.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.DisplayTE35.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.EthernetJ11D.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.MulticolorLED.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.RS232.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Toolbox.NETMF.Core.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHI.Usb.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.DaisyLink.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.Serial.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.SPI.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHI.Hardware.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHI.Networking.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHI.Pins.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.DisplayTE35.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.EthernetJ11D.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.MulticolorLED.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.RS232.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Toolbox.NETMF.Core.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHI.Usb.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.DaisyLink.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.Serial.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.SPI.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHI.Hardware.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHI.Networking.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHI.Pins.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.DisplayTE35.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.EthernetJ11D.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.MulticolorLED.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.RS232.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Toolbox.NETMF.Core.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHI.Usb.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.DaisyLink.dll
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.dll
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.Serial.dll
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.SPI.dll
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebClient.dll
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebServer.dll
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHI.Hardware.dll
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHI.Networking.dll
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHI.Pins.dll
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.DisplayTE35.dll
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.EthernetJ11D.dll
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.MulticolorLED.dll
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.RS232.dll
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.USBClientDP.dll
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Toolbox.NETMF.Core.dll
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHI.Usb.dll
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.pdb
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.xml
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.DaisyLink.pdb
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.DaisyLink.xml
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.Serial.pdb
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.Serial.xml
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.SPI.pdb
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.SPI.xml
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebClient.pdb
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebClient.xml
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebServer.pdb
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebServer.xml
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHI.Hardware.xml
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHI.Networking.xml
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHI.Pins.xml
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.DisplayTE35.xml
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.EthernetJ11D.xml
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.MulticolorLED.xml
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.RS232.xml
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.USBClientDP.xml
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Toolbox.NETMF.Core.pdb
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHI.Usb.xml
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\Télépeage.csprojResolveAssemblyReference.cache
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\TinyCLR_DebugReferences.cache
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\Télépeage.Resources.resources
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\Télépeage.csproj.GenerateResource.Cache
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\Télépeage.Resources.tinyresources
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\TinyResGen.cache
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\be\Télépeage.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\be\Télépeage.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\le\Télépeage.pe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\le\Télépeage.pdbx
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\Télépeage.exe
+F:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\Télépeage.pdb
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\le\Télépeage.exe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\be\Télépeage.exe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\le\Télépeage.pdb
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\be\Télépeage.pdb
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Télépeage.exe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Télépeage.pdb
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\le\Télépeage.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\le\Télépeage.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\be\Télépeage.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\be\Télépeage.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.DaisyLink.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.Serial.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.SPI.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.WebClient.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.WebServer.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHI.Hardware.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHI.Networking.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHI.Pins.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.DisplayTE35.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.EthernetJ11D.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.MulticolorLED.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.RS232.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Toolbox.NETMF.Core.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHI.Usb.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.DaisyLink.dll
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.dll
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.Serial.dll
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.SPI.dll
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebClient.dll
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebServer.dll
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHI.Hardware.dll
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHI.Networking.dll
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHI.Pins.dll
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.DisplayTE35.dll
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.EthernetJ11D.dll
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.MulticolorLED.dll
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.RS232.dll
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.USBClientDP.dll
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHI.Usb.dll
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.pdb
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.xml
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.DaisyLink.pdb
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.DaisyLink.xml
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.Serial.pdb
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.Serial.xml
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.SPI.pdb
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.SPI.xml
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebClient.pdb
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebClient.xml
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebServer.pdb
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Gadgeteer.WebServer.xml
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHI.Hardware.xml
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHI.Networking.xml
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHI.Pins.xml
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.DisplayTE35.xml
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.EthernetJ11D.xml
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.MulticolorLED.xml
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.RS232.xml
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GTM.GHIElectronics.USBClientDP.xml
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\GHI.Usb.xml
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\Télépeage.Resources.resources
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\Télépeage.csproj.GenerateResource.Cache
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\Télépeage.Resources.tinyresources
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\TinyResGen.cache
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\be\Télépeage.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\be\Télépeage.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\le\Télépeage.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\le\Télépeage.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\Télépeage.exe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\Télépeage.pdb
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.DaisyLink.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.Serial.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.SPI.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.WebClient.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.WebServer.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHI.Hardware.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHI.Networking.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHI.Pins.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.DisplayTE35.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.EthernetJ11D.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.MulticolorLED.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.RS232.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Toolbox.NETMF.Core.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHI.Usb.pe
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.DaisyLink.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.Serial.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.SPI.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHI.Hardware.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHI.Networking.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHI.Pins.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.DisplayTE35.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.EthernetJ11D.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.MulticolorLED.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.RS232.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\Toolbox.NETMF.Core.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\LE\GHI.Usb.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.DaisyLink.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.Serial.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.SPI.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHI.Hardware.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHI.Networking.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHI.Pins.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.DisplayTE35.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.EthernetJ11D.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.MulticolorLED.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.RS232.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\Toolbox.NETMF.Core.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\BE\GHI.Usb.pdbx
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Toolbox.NETMF.Core.pdb
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\Télépeage.csprojResolveAssemblyReference.cache
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\obj\Debug\TinyCLR_DebugReferences.cache
+G:\000000nza\ProjetSNIR\Télépeage\Télépeage\bin\Debug\Toolbox.NETMF.Core.dll
