@@ -1,8 +1,8 @@
 ﻿# Resumé
 Projet de fin d'études, réalisation d'un système de télépéage complet permettant l'accès à certains utilisateurs munis d'un badge RFID et d'un abonnement.
 
-Ma téche au sein du projet centralise la gestion des organes du système de télépeage.
-*	Recevoir léinformation du lecteur RFID.
+Ma tache au sein du projet centralise la gestion des organes du système de télépeage.
+*	Recevoir l'information du lecteur RFID.
 *	Insérer la date et l'heure de passage dans la base de données.
 *	Demander à la base de données si le badge est encore valide.
 *	Passer le feu au vert.
